@@ -1,0 +1,13 @@
+C:\Users\Patryk\Desktop\studia\Machine_learning_algorithm\MachineLearning\MachineLearning\bin\Debug\netcoreapp3.1\MachineLearning.exe
+C:\Users\Patryk\Desktop\studia\Machine_learning_algorithm\MachineLearning\MachineLearning\bin\Debug\netcoreapp3.1\MachineLearning.deps.json
+C:\Users\Patryk\Desktop\studia\Machine_learning_algorithm\MachineLearning\MachineLearning\bin\Debug\netcoreapp3.1\MachineLearning.runtimeconfig.json
+C:\Users\Patryk\Desktop\studia\Machine_learning_algorithm\MachineLearning\MachineLearning\bin\Debug\netcoreapp3.1\MachineLearning.runtimeconfig.dev.json
+C:\Users\Patryk\Desktop\studia\Machine_learning_algorithm\MachineLearning\MachineLearning\bin\Debug\netcoreapp3.1\MachineLearning.dll
+C:\Users\Patryk\Desktop\studia\Machine_learning_algorithm\MachineLearning\MachineLearning\bin\Debug\netcoreapp3.1\MachineLearning.pdb
+C:\Users\Patryk\Desktop\studia\Machine_learning_algorithm\MachineLearning\MachineLearning\obj\Debug\netcoreapp3.1\MachineLearning.csprojAssemblyReference.cache
+C:\Users\Patryk\Desktop\studia\Machine_learning_algorithm\MachineLearning\MachineLearning\obj\Debug\netcoreapp3.1\MachineLearning.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\studia\Machine_learning_algorithm\MachineLearning\MachineLearning\obj\Debug\netcoreapp3.1\MachineLearning.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\studia\Machine_learning_algorithm\MachineLearning\MachineLearning\obj\Debug\netcoreapp3.1\MachineLearning.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\studia\Machine_learning_algorithm\MachineLearning\MachineLearning\obj\Debug\netcoreapp3.1\MachineLearning.dll
+C:\Users\Patryk\Desktop\studia\Machine_learning_algorithm\MachineLearning\MachineLearning\obj\Debug\netcoreapp3.1\MachineLearning.pdb
+C:\Users\Patryk\Desktop\studia\Machine_learning_algorithm\MachineLearning\MachineLearning\obj\Debug\netcoreapp3.1\MachineLearning.genruntimeconfig.cache
